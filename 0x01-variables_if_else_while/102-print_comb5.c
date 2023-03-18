@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 
-int main (void)
+int main(void)
 
 {
 	int p, q;
@@ -31,4 +31,4 @@ int main (void)
 	return (0);
 }
 
-	
+
